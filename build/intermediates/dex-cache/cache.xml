@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d332d4d8e6df9c7348374da4055fb2f2301b6a69">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a87a45a74df83b0da7e1216700ad97bfe2066f02/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_fb5f87f83ccd11ffcf207762f18d9a02ebd7a246/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_4f71731c45e05452dd8d7bbf5d5da98e40fe3ac7/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e268a7a87954eed0e309297424b19f4220de858d/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_dfbb54dd9f5aad26267e92f95b0a3fd789aacfcd/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7d28415851ced231970fabb9c0f6231ca4563ffd">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64d42f2171808ecb3fbe029c12badfade32d2ae2/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_eb8c79ded79e86ed85ec6fcc97000e0c554d5345/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_7fa2e6f689f36905cfd54c34a520eaf38e7e734d/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_63f56d7cf4214590532f8fdbb018673b96ae4e55/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_07562bfab580ddd72dc5a6ea4a886d85ae03f785/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_bb498d572eb3ed6513b45210f392caaf55a8b48c/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_2eb4ea250934bbacfd6f54907b99a35cfd04762f/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f3f67d7076a86cca2bbf5d8e3c66b158b9b8819b/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_96bb33ac9f8f200613a0949f88411e13547b6279/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_52ab474f6b36bf79695dd09b6ab5d9aba1b2fcf8/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_84a363a88d6ec83bfe9d9c7511fbcbe8ab30e5d8/classes.dex" />
+    </item>
+    <item
+        jar="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/julia/AndroidStudioProjects/IMC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c35ca1743f08547205827a41de1a0691f98ed47f/classes.dex" />
+    </item>
+
+</items>

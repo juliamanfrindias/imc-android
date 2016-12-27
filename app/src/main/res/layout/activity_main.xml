@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="1dp"
+        android:text="Cálculo de IMC"
+        android:textSize="20dp"
+        android:layout_gravity="center" />
+
+    <EditText
+        android:inputType="number"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/texto1"
+        android:hint="@string/mensagem1"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="1dp"
+        android:layout_gravity="center"
+        />
+
+    <EditText
+        android:inputType="number"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/texto2"
+        android:hint="@string/mensagem2"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="1dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botao"
+        android:hint="@string/mensagem3"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="1dp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
